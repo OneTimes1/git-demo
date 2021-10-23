@@ -3,5 +3,6 @@ public class GitTest {
         System.out.println("helllo Git!!!");
         System.out.println("helllo Git2!!!");
         System.out.println("helllo Git2!!!");
+        System.out.println("helllo Git2!!!");
     }
 }
